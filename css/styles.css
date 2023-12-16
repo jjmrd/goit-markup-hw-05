@@ -499,12 +499,12 @@ body {
   width: 100%;
 }
 
-.address-menu {
+.address {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .section-one-button {
-  background-color: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  background-color: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .fourth-socialmedia-a {
@@ -516,7 +516,7 @@ body {
 }
 
 .footer-social-media-a {
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* modal */
@@ -589,7 +589,7 @@ body {
     box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-image-list {
+.portfolio-link {
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
